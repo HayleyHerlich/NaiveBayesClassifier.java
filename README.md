@@ -1,0 +1,1 @@
+This Naive Bayes classifier classifies emails into one of two possible categories or classes: spam and not-spam (also known as ham). It learns the difference (as best as it can) between the two classes by examining a collection of pre-classified example emails. Then, the program generalizes what it has learned to new emails it has not seen before.
